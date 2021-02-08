@@ -39,6 +39,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 <img src="results/doge.png" alt="News on DOGE" width="500"/>
 <br/>
 <br/>
+It all started from the Gamestop incident around the end of January 2021.
+There's a massive spike around the 29th
 <img src="results/doge2021.png" alt="News on DOGE" width="500"/>
 <br/>
 <br/>
