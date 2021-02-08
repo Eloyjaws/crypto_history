@@ -22,3 +22,24 @@ npm install
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Screenshots
+<img src="screenshots/1.png" alt="News on DOGE" width="500"/>
+<br/>
+<br/>
+<img src="screenshots/2.png" alt="News on DOGE" width="500"/>
+<br/>
+<br/>
+<img src="screenshots/3.png" alt="News on DOGE" width="500"/>
+<br/>
+<br/>
+<img src="screenshots/4.png" alt="News on DOGE" width="500"/>
+<br/>
+<br/>
+<img src="results/doge.png" alt="News on DOGE" width="500"/>
+<br/>
+<br/>
+<img src="results/doge2021.png" alt="News on DOGE" width="500"/>
+<br/>
+<br/>
+<img src="results/doge_Feb_2021.png" alt="News on DOGE" width="500"/>
