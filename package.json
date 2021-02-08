@@ -1,0 +1,15 @@
+{
+  "name": "crypto_history",
+  "version": "1.0.0",
+  "description": "Download and store DOGECOIN history data as csv",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eniola Ajiboye",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0"
+  }
+}
